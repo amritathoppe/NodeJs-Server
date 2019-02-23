@@ -1,0 +1,11 @@
+{
+  "name": "amrita",
+  "version": "1.0.0",
+  "description": "node js httpserver implmentation",
+  "main": "http_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amrita",
+  "license": "ISC"
+}
